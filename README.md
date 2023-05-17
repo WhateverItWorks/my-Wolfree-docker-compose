@@ -9,7 +9,7 @@ You can use Docker or take any other approach you prefer.
 2.  Run the following command.
 
     ```
-    docker build --progress=plain --tag wolfree https://try.gitea.io/wolfree/wolfree-dockerfile.git
+    docker build --progress=plain --tag wolfree https://github.com/WhateverItWorks/my-Wolfree-docker-compose.git
     ```
 
 3.  Run the following command.
