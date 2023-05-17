@@ -50,21 +50,3 @@ rm /usr/share/nginx/html/mirror/index.html
 rm /usr/share/nginx/html/dmca/index.html
 rm /usr/share/nginx/html/acknowledgment/index.html
 ```
-
-## Helpful websites for new developers
-The following article provides an introduction to the terminal.
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
-
-Linux distributions have a terminal available by default.
-The following guide lists some recommended distributions.
-
-https://www.privacyguides.org/desktop/
-
-Learn JavaScript in the following MDN Learning Area.
-
-https://developer.mozilla.org/en-US/docs/Learn
-
-Chrome DevTools is a set of Web developer tools built directly into the Google Chrome browser.
-
-https://developer.chrome.com/docs/devtools/
